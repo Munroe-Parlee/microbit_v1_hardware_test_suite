@@ -1,4 +1,23 @@
+MakeCode program for hardware testing / diagnostics of micro:bits. This is the main program for the micro:bit to be tested, which works in conjunction with the receiver program for testing the radio and light sensor.
 
+## Table of Contents
+1. [Introduction](https://github.com/Vegz78/microbit_test_testunit#introduction)
+2. [Instructions](https://github.com/Vegz78/microbit_test_testunit#instructions)
+3. 
+
+## Introduction
+
+## Instructions
+
+## Companion Program
+You can find the receiver program which works in conjunction with this program for diagnosting the radio and light sensor on the test unit here:<BR>
+[https://github.com/Vegz78/microbit_test_receiver](https://github.com/Vegz78/microbit_test_receiver)
+
+## Support or Lack Thereof
+Since the program works for me and 
+<BR>
+
+<BR>
 > Åpne denne siden på [https://vegz78.github.io/microbit_test_testunit/](https://vegz78.github.io/microbit_test_testunit/)
 
 ## Bruk som utvidelse

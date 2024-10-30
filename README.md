@@ -11,7 +11,8 @@ Or by clicking this link if your are viewing this page from https://vegz78.githu
 1. [Introduction](#introduction)
 2. [Instructions](#instructions)
 3. [Companion Program](#companion-program)
-4. [Support or Lack Thereof](#support-or-lack-thereof)
+4. [Other Useful Resources](#other-useful-resources)
+5. [Support or Lack Thereof](#support-or-lack-thereof)
 
 ## Introduction
 Features 11 tests for various inputs (buttons, sensors etc.) and outputs (LED display, pins, radio transmitter etc.) on a micro:bit.

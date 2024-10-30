@@ -7,7 +7,7 @@ MakeCode program for hardware testing / diagnostics of micro:bits. This is the m
 4. [Support or Lack Thereof](https://github.com/Vegz78/microbit_test_testunit#support-or-lack-thereof)
 
 ## Introduction
-Features 11 tests for various inputs (buttons, sensors etc.) and outputs (LED display, pins, radio transmitter etc.) on a microo:bit.
+Features 11 tests for various inputs (buttons, sensors etc.) and outputs (LED display, pins, radio transmitter etc.) on a micro:bit.
 
 Tested mainly on the micro:bit V1, but should also work on the V2, albeit lacking tests for the new microphone, touch logo and capacative touch on the V2.
 

@@ -1,11 +1,11 @@
 MakeCode program for hardware testing / diagnostics of micro:bits. This is the main program for the micro:bit to be tested, which works in conjunction with the receiver program for testing the radio and light sensor.
 
-Open both programs in split view in the MakeCode for micro:bit editor by copying and pasting this link into the address your browser]:
+Open both programs in split view in the MakeCode for micro:bit editor by copying and pasting this link into the address your browser:
 ```
-https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver
+https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver
 ```
 Or by clicking this link if your are viewing this page from https://vegz78.github.io/microbit_test_testunit:
-[https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver](https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver)
+[https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver](https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver)
 
 ## Table of Contents
 1. [Introduction](https://github.com/Vegz78/microbit_test_testunit#introduction)

@@ -24,7 +24,14 @@ The various tests:
 1. _Buttons_: The test unit displays arrows when buttons are pressed (A button = left arrow, B button = right arrow, A+B buttons = up arrow)
 2. _Display_: Cycles between lighting all LED in the test unit's display, and showing the test number (2)
 3. _Radio_: Pushing the A or B button on the test unit transmits and shows an _OK_ symbol on the receiver's display, while pushing the A or B button on the receiver transmits and shows an _OK_ symbol on the test unit's display
-4. 
+4. _Light sensors_: The receiver displays the intensity of the light measured from the test unit's LEDs
+5. _Compass_: The test unit displays the points measured by the compass, after first asking for calibration. If the compass has been calibrated already, press the B button to cancel calibration. If not, calibration starts regardless, or press the A button to force calibration
+6. _Accelerometer_: The test unit displays arrows corresponding to the direction of its tilt, as well as an _OK_ symbol when shaking or applying G forces
+7. _Thermometer_: The test unit displays measured temperatures as a scale of 0 to 25 LEDs lit, corresponding to an intervall between 15 and 40 degress celsius
+8. _Pins 0-2_: The test unit displays the number of the pin chosen resistively (e.g. keep your right finger on the GND whilie selecting pin 0, 1 and 2 with your left finger)
+9. _Audio out_: The test unit plays audio (requires a speaker, preferably an active speaker, connected between pin 0 and GND)
+10. _Analog input signal_: The test unit displays applied voltage over pins 0, 1 or 2 (+) and GND (-) of between 0 and 3V as a scale of 0 to 25 LEDs lit (e.g. a 1.5V battery or directly fromo the 3V pin)
+11. _Anolog output signal_: The test unit applies voltage to pins 0, 1 and 2, which can be verified for instance by connecting a LED or multimeter between any of these pins (+) and GND (-)
 
 ## Companion Program
 You can find the receiver program which works in conjunction with this program for diagnosting the radio and light sensor on the test unit here:<BR>
@@ -39,7 +46,7 @@ You can find the receiver program which works in conjunction with this program f
   - https://microbit.org/get-started/user-guide/firmware/  
 
 ## Support or Lack Thereof
-Since the program works and has fullfilled its intended purpose there is very little further development and support to be expected.
+Since the program works, though presumably not optimally, but nevertheless has fullfilled its intended purpose, there is very little further development and support to be expected.
 
 However, if you have had good use of it or have ideas for or made improvements or experienced some horrible bugs, please tell me about it in the [issues section](https://github.com/Vegz78/microbit_test_testunit/issues)!
 <BR>

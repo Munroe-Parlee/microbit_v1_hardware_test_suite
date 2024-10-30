@@ -1,5 +1,10 @@
 MakeCode program for hardware testing / diagnostics of micro:bits. This is the main program for the micro:bit to be tested, which works in conjunction with the receiver program for testing the radio and light sensor.
 
+[Open both programs in split view in the MakeCode for micro:bit editor byr copying and pasting this link in your browser](https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver):
+```
+https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver
+```
+
 ## Table of Contents
 1. [Introduction](https://github.com/Vegz78/microbit_test_testunit#introduction)
 2. [Instructions](https://github.com/Vegz78/microbit_test_testunit#instructions)
@@ -19,6 +24,8 @@ Requires one or more micro:bits to be tested (the _test units_ which must load t
 The number of the LED always lit on the test unit's dipslay, corresponds to the numbered test in the list below.
 
 To move up between tests, hold down the A button on the test unit micro:bit and push the B button, and vice versa to move down. You can jump directly to test 11 from 1 by going up and vice versa.
+
+_NB!: Simultaneous pushing of buttons in the MakeCode editor's simulator [does not work yet](https://forum.makecode.com/t/2-questions-moving-multiple-blocks-in-editor-and-micro-bit-simulator-keyboard-control/31389?u=vegz78). Therefore, to cycle between the various tests in the simulator, instead manually change the variable `testNumber` to a number between 0 and 10._
 
 The various tests:
 1. _Buttons_: The test unit displays arrows when buttons are pressed (A button = left arrow, B button = right arrow, A+B buttons = up arrow)

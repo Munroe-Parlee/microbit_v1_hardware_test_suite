@@ -4,14 +4,14 @@ Open both programs in split view in the MakeCode for micro:bit editor by copying
 ```
 https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver
 ```
-Or by clicking this link if your are viewing this page from https://vegz78.github.io/microbit_test_testunit:
+Or by clicking this link if your are viewing this page from https://vegz78.github.io/microbit_test_testunit:<BR>
 [https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver](https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver)
 
 ## Table of Contents
-1. [Introduction](https://github.com/Vegz78/microbit_test_testunit#introduction)
-2. [Instructions](https://github.com/Vegz78/microbit_test_testunit#instructions)
-3. [Companion Program](https://github.com/Vegz78/microbit_test_testunit#companion-program)
-4. [Support or Lack Thereof](https://github.com/Vegz78/microbit_test_testunit#support-or-lack-thereof)
+1. [Introduction](#introduction)
+2. [Instructions](#instructions)
+3. [Companion Program](#companion-program)
+4. [Support or Lack Thereof](#support-or-lack-thereof)
 
 ## Introduction
 Features 11 tests for various inputs (buttons, sensors etc.) and outputs (LED display, pins, radio transmitter etc.) on a micro:bit.

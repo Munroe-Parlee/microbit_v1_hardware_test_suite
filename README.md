@@ -5,7 +5,7 @@ Open both programs in split view in the MakeCode for micro:bit editor by copying
 https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver
 ```
 Or by clicking this link if your are viewing this page from https://vegz78.github.io/microbit_test_testunit:
-[https://arcade.makecode.com/#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver](https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver)
+[https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver](https://makecode.microbit.org/---multi#pub:https://github.com/Vegz78/microbit_test_testunit:|:pub:https://github.com/Vegz78/microbit_test_receiver)
 
 ## Table of Contents
 1. [Introduction](https://github.com/Vegz78/microbit_test_testunit#introduction)

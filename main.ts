@@ -151,16 +151,18 @@ while (!(calibrated)) {
     degrees = input.compassHeading()
     // Compass routine inspired from here:
     // https://makecode.microbit.org/projects/compass#:~:text=%7B-,Step%207,-%7D
-    if (degrees < 45) {
+
+    // adjusted by munroe
+    if ((0<= degrees && degrees < 45) ||(315 <= degrees && degrees <= 360)) {
         basic.showString("N")
-    } else if (degrees < 135) {
+    } else if (45 <= degrees && degrees < 135) {
         basic.showString("E")
-    } else if (degrees < 225) {
+    } else if (135 <= degrees && degrees < 225) {
         basic.showString("S")
-    } else if (degrees < 315) {
+    } else if (225 <= degrees && degrees < 315) {
         basic.showString("W")
-    } else if (degrees <= 360) {
-        basic.showString("N")
+    } else {
+        basic.showString("?") // error code
     }
 }
 

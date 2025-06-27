@@ -1,4 +1,4 @@
-MakeCode program for hardware testing / diagnostics of micro:bits. This is the main program for the micro:bit to be tested, which works in conjunction with the receiver program for testing the radio and light sensor.
+Micro:bit hardware diagnostics suite. This program is for the micro:bit being tested, the radio and light sensor functionality tests require a 2nd receiver micro:bit programmed with the twin file.
 
 Open both programs in split view in the MakeCode for micro:bit editor by copying and pasting this link into the address your browser:
 ```
